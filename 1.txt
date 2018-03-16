@@ -1,8 +1,5 @@
 First
 Added Second Line
 Added third line
-<<<<<<< HEAD
 Da Da Da
-=======
-Added Fourth Line
->>>>>>> 9c00c1824c19e45643e0a953c13a81fa2d85d5ca
+One more from local repo
